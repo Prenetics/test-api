@@ -128,8 +128,8 @@
         "tags": [
           "genetics"
         ],
-        "summary": "Get genetic report",
-        "description": "Get genetic report",
+        "summary": "Get PDF health report",
+        "description": "Get PDF health report",
         "produces": [
           "application/pdf"
         ],
